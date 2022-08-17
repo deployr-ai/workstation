@@ -30,15 +30,3 @@ Organización de la estructura
     │
     └── src                <- Código del proyecto.
     
-
-¿Cómo correrlo?
-------------
-explicar
-
-
-        
-Fuentes
-------------       
-Template de Cookiecutter: https://github.com/drivendata/cookiecutter-data-science
-Docker: MLTooling/ML-workspace 
-
